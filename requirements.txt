@@ -13,7 +13,7 @@ iso3166==0.9
 isodate==0.6.0
 maxminddb==1.4.1
 multidict==4.5.2
-pycares==2.4.0
+pycares==4.2.0
 pycryptodome==3.7.3
 PySocks==1.6.8
 requests==2.21.0
